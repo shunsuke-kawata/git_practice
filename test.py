@@ -1,2 +1,2 @@
 print("初期ファイルの作成")
-print(3)
+print(4)
